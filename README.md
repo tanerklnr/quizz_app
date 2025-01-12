@@ -2,15 +2,7 @@
 
 Basit Quiz uygulamam.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Ekran görüntüsü 2025-01-12 230523](https://github.com/user-attachments/assets/0155d528-a25a-4579-8af5-f7f976c13039)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2025-01-12 230551](https://github.com/user-attachments/assets/280ea3f7-b10f-4384-bb90-7e281f24d124)
